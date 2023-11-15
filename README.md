@@ -22,4 +22,9 @@ dart compile exe bin/solid_clean_cli.dart -o solid
 
 ```bash
 sudo mv solid /usr/local/bin/
+```
+### Step 3: Create screen with all componenets
+
+```bash
+solid create screen:Homepage
 
