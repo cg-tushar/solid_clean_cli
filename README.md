@@ -11,6 +11,11 @@
 ## ⚙️ Setup & Usage
 
 Get the Solid Clean CLI up and running in a jiffy with these easy steps:
+### Step 0: add dependency in pubspec.yml
+```bash
+  clean_arch:
+    git: https://github.com/cg-tushar/clean_arch.git
+```
 
 ### Step 1: Compile the Application
 Transform the Dart code into a nifty executable:
